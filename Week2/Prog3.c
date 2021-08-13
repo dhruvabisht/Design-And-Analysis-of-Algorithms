@@ -1,3 +1,10 @@
+/*
+Name: DHRUVA BISHT
+Section: DS
+Class Roll No.: 25
+University Roll No.: 2015162
+*/
+
 #include<stdio.h>
 #include<math.h>
 int main()
